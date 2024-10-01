@@ -1,7 +1,3 @@
-
-
-]
-
 # Spotify Mood-Based Song Recommender
 
 This project is a **machine learning-based song recommendation system** that recommends Spotify songs to users based on their real-time mood analysis. The application uses a combination of natural language processing (NLP), computer vision, and Spotify's API to analyze a user's mood and suggest songs accordingly.
