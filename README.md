@@ -11,8 +11,6 @@ This project is a **machine learning-based song recommendation system** that rec
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
 6. [Future Improvements](#future-improvements)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 The goal of this project is to recommend songs to users based on their current emotional state. The recommender system detects the user's mood through real-time analysis of images (facial expressions) or text (emotions derived from input). After identifying the mood, it uses Spotify's API to fetch and recommend songs that match the detected emotional state.
